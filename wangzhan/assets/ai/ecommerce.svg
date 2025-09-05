@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns='http://www.w3.org/2000/svg' width='1600' height='1200' viewBox='0 0 1600 1200'>
+  <defs>
+    <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>
+      <stop offset='0%' stop-color='#6366f1'/>
+      <stop offset='100%' stop-color='#ec4899'/>
+    </linearGradient>
+  </defs>
+  <rect width='1600' height='1200' fill='url(#g)' opacity='0.12'/>
+  <g opacity='0.95'>
+    <rect x='180' y='220' width='1240' height='760' rx='28' fill='#fff'/>
+    <rect x='240' y='280' width='480' height='26' rx='13' fill='#e5e7eb'/>
+    <rect x='240' y='320' width='420' height='18' rx='9' fill='#eef2f7'/>
+
+    <rect x='240' y='380' width='1120' height='540' rx='18' fill='#f8fafc'/>
+
+    <g opacity='0.9'>
+      <rect x='280' y='420' width='300' height='360' rx='16' fill='#fff' stroke='url(#g)' stroke-opacity='0.5'/>
+      <rect x='620' y='420' width='300' height='360' rx='16' fill='#fff' stroke='url(#g)' stroke-opacity='0.5'/>
+      <rect x='960' y='420' width='300' height='360' rx='16' fill='#fff' stroke='url(#g)' stroke-opacity='0.5'/>
+      <rect x='320' y='760' width='220' height='20' rx='10' fill='url(#g)'/>
+      <rect x='660' y='760' width='220' height='20' rx='10' fill='url(#g)'/>
+      <rect x='1000' y='760' width='220' height='20' rx='10' fill='url(#g)'/>
+    </g>
+  </g>
+  <text x='50%' y='92%' dominant-baseline='middle' text-anchor='middle' fill='#4b5563' font-family='Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif' font-size='48' font-weight='700'>电商网站作品</text>
+</svg>
+
